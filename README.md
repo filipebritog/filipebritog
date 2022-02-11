@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Git and Github
 - 📫 How to reach me :
    filipebritog@gmail.com
-   https://www.linkedin.com/filipebritog
-
+   https://www.linkedin.com/in/filipebritog/
 
 
