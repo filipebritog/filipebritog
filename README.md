@@ -2,13 +2,15 @@
 🐕
 - 👋 Hi, I’m @filipebritog 
 - 👀 I’m interested in Technology and tests
-- 🌱 I’m currently learning Git and Github
+- 🌱 I’m currently learning Testing
 - Competencias em desenvolvimento:
-   - [ ]  Git/Github
-   - [ ]  Lógica de Programação
-   - [ ]  C
+   - [X]  Git/Github
+   - [X]  Lógica de Programação
+   - [ ]  Javascript
    - [X] English
    - [ ] Español
+   - [ ] Automação de testes
+   
 ***
 
 
@@ -25,6 +27,7 @@ Num | Habilidade | Pontuação
 4|Estratégia|9.0|
 5|Orátória|9.0|
 6|Capacidade Analítica|8.3|
+7|Testes manuais|8.5|
 
 ***
 “I always want to be the best at what I do. As a kid, whatever I was doing, if I was playing football or whatever I was applying my energy to at the time, I always wanted to do it to the best of my abilities. And I was always interested in finding out how I could do it better.”
